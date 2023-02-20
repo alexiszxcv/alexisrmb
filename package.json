@@ -14,7 +14,7 @@
     "coding",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Alexis Musaelyan-Blackmon",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
